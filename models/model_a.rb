@@ -8,4 +8,3 @@ dinosaur = {
   'nicknames' => ["big boi", "king"],
   'locations' => ["Montana", "Texas"]
 }
-dinosaur1 = dinosaur.new
