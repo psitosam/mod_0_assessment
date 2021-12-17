@@ -6,5 +6,6 @@ dinosaur = {
   'meat_eater' => true,
   'aggressive' => true,
   'nicknames' => ["big boi", "king"],
-  'locations' => ["Montana", "Texas"] 
+  'locations' => ["Montana", "Texas"]
 }
+dinosaur1 = dinosaur.new
